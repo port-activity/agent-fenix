@@ -1,0 +1,56 @@
+{
+  "imo": 9769116,
+  "vessel_name": "",
+  "time_type": "Actual",
+  "state": "Pilotage_Commenced",
+  "time": "2020-02-07T05:00:00+0000",
+  "payload": {
+      "source": "Fenix",
+      "external_id": "SE000474455",
+      "direction": "inbound",
+      "vessel_beam": 13.6,
+      "vessel_draft": 4.5,
+      "vessel_loa": 103,
+      "original_message": {
+          "id": "1534000",
+          "timestamp": "2020-02-07T04:16:08.505236+00:00",
+          "imo": 9769116,
+          "fromPoint": "Gr\u00e5sj\u00e4lsb\u00e5dan (syd om)",
+          "toPoint": "Sligkajen 16 - G\u00e4vle",
+          "billNumber": 990313978,
+          "orderedPilotageStart": "2020-02-07T05:00:00Z",
+          "statusId": 10,
+          "statusDescription": "OrderStarted",
+          "shipBeam": 13.6,
+          "shipCurrentDraft": 4.5,
+          "shipLoa": 103,
+          "unLocode": "SEGVX",
+          "swPilotageType": "ARR",
+          "swPortVisitId": "SE000474455",
+          "eventBlocks": [
+              {
+                  "boardingPoint": "Gr\u00e5sj\u00e4lsb\u00e5dan (syd om)",
+                  "id": "2060873",
+                  "timestamp": "2020-02-07T04:16:08.7995125Z",
+                  "lane": "G\u00e4vle - Gr\u00e5sj\u00e4lsb\u00e5dan\/Purrut",
+                  "plannedEndTime": "2020-02-07T06:15:00Z",
+                  "plannedStartTime": "2020-02-07T05:00:00Z",
+                  "actualStartTime": null,
+                  "actualEndTime": null,
+                  "statusChangedDescription": null
+              },
+              {
+                  "boardingPoint": null,
+                  "id": "2060874",
+                  "timestamp": "2020-02-07T04:16:08.8005137Z",
+                  "lane": "G\u00e4vle - Gr\u00e5sj\u00e4lsb\u00e5dan\/Purrut",
+                  "plannedEndTime": "2020-02-07T06:15:00Z",
+                  "plannedStartTime": "2020-02-07T05:00:00Z",
+                  "actualStartTime": "2020-02-07T05:00:00Z",
+                  "actualEndTime": null,
+                  "statusChangedDescription": null
+              }
+          ]
+      }
+  }
+}

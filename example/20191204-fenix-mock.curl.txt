@@ -1,0 +1,7 @@
+curl 'https://sma-pilotinfoapi-test.azurewebsites.net/api/PilotageEvent' \
+-XPOST \
+-H 'Accept: application/json, text/plain, */*' \
+-H 'Content-Type: application/json;charset=utf-8' \
+-H 'Connection: keep-alive' \
+--data-binary '{"imo": "9295347", "startDate": "2019-12-04T23:00:00.010Z", "endDate": "2019-12-09T01:00:00.010Z"}'
+

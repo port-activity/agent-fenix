@@ -1,0 +1,19 @@
+version: '3.7'
+
+services:
+  agent-fenix:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    stop_signal: SIGINT
+    volumes:
+      - ./src:/src:rw,consistent
+      - ./vendor:/vendor:rw,consistent
+      - ./tests:/tests:rw,consistent
+      - ./Makefile:/Makefile:rw,consistent
+    container_name: spia-agent-fenix
+    env_file: .env
+
+volumes:
+  src:
+  vendor:

@@ -1,0 +1,580 @@
+[
+  {
+    "id": "1060262",
+    "timestamp": "2018-12-09T12:07:01.17948+00:00",
+    "imo": 9053816,
+    "fromPoint": "Landsort 2 M syd, bordn.",
+    "toPoint": "4, kaj Djuphamn - Köping",
+    "billNumber": 990267095,
+    "statusId": 3,
+    "statusDescription": "BlockPreliminaryAssigned",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Landsort 2 M syd, bordn.",
+        "id": "1421405",
+        "timestamp": "2018-12-09T12:07:01.2935892Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-10T05:45:00Z",
+        "plannedStartTime": "2018-12-10T02:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot preliminary assigned on the lane Södertälje sluss - Landsort"
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1421406",
+        "timestamp": "2018-12-09T12:07:01.2935892Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-10T12:45:00Z",
+        "plannedStartTime": "2018-12-10T05:45:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1060291",
+    "timestamp": "2018-12-09T12:20:01.6715607+00:00",
+    "imo": 9053816,
+    "fromPoint": "Landsort 2 M syd, bordn.",
+    "toPoint": "4, kaj Djuphamn - Köping",
+    "billNumber": 990267095,
+    "statusId": 3,
+    "statusDescription": "BlockPreliminaryAssigned",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Landsort 2 M syd, bordn.",
+        "id": "1421442",
+        "timestamp": "2018-12-09T12:20:01.8837626Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-10T05:45:00Z",
+        "plannedStartTime": "2018-12-10T02:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1421443",
+        "timestamp": "2018-12-09T12:20:01.8837626Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-10T12:45:00Z",
+        "plannedStartTime": "2018-12-10T05:45:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot preliminary assigned on the lane Köping - Södertälje via norra leden"
+      }
+    ]
+  },
+  {
+    "id": "1060292",
+    "timestamp": "2018-12-09T12:20:01.6715607+00:00",
+    "imo": 9053816,
+    "fromPoint": "Landsort 2 M syd, bordn.",
+    "toPoint": "4, kaj Djuphamn - Köping",
+    "billNumber": 990267095,
+    "statusId": 3,
+    "statusDescription": "BlockPreliminaryAssigned",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Landsort 2 M syd, bordn.",
+        "id": "1421444",
+        "timestamp": "2018-12-09T12:20:01.8837626Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-10T05:45:00Z",
+        "plannedStartTime": "2018-12-10T02:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1421445",
+        "timestamp": "2018-12-09T12:20:01.8837626Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-10T12:45:00Z",
+        "plannedStartTime": "2018-12-10T05:45:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot preliminary assigned on the lane Köping - Södertälje via norra leden"
+      }
+    ]
+  },
+  {
+    "id": "1060303",
+    "timestamp": "2018-12-09T12:27:02.0696393+00:00",
+    "imo": 9053816,
+    "fromPoint": "Landsort 2 M syd, bordn.",
+    "toPoint": "4, kaj Djuphamn - Köping",
+    "billNumber": 990267095,
+    "statusId": 3,
+    "statusDescription": "BlockPreliminaryAssigned",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Landsort 2 M syd, bordn.",
+        "id": "1421460",
+        "timestamp": "2018-12-09T12:27:02.0756446Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-10T05:45:00Z",
+        "plannedStartTime": "2018-12-10T02:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1421461",
+        "timestamp": "2018-12-09T12:27:02.0756446Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-10T12:45:00Z",
+        "plannedStartTime": "2018-12-10T05:45:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot preliminary assigned on the lane Köping - Södertälje via norra leden"
+      }
+    ]
+  },
+  {
+    "id": "1060333",
+    "timestamp": "2018-12-09T12:58:07.7123968+00:00",
+    "imo": 9053816,
+    "fromPoint": "Landsort 2 M syd, bordn.",
+    "toPoint": "4, kaj Djuphamn - Köping",
+    "billNumber": 990267095,
+    "statusId": 9,
+    "statusDescription": "OrderConfirmed",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Landsort 2 M syd, bordn.",
+        "id": "1421496",
+        "timestamp": "2018-12-09T12:58:07.7894705Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-10T05:45:00Z",
+        "plannedStartTime": "2018-12-10T02:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1421497",
+        "timestamp": "2018-12-09T12:58:07.7894705Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-10T12:45:00Z",
+        "plannedStartTime": "2018-12-10T05:45:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1060915",
+    "timestamp": "2018-12-10T06:44:37.1058572+00:00",
+    "imo": 9053816,
+    "fromPoint": "Landsort 2 M syd, bordn.",
+    "toPoint": "4, kaj Djuphamn - Köping",
+    "billNumber": 990267095,
+    "statusId": 3,
+    "statusDescription": "BlockPreliminaryAssigned",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Landsort 2 M syd, bordn.",
+        "id": "1422284",
+        "timestamp": "2018-12-10T06:44:37.1068579Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-11T05:45:00Z",
+        "plannedStartTime": "2018-12-11T02:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot preliminary assigned on the lane Södertälje sluss - Landsort"
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1422285",
+        "timestamp": "2018-12-10T06:44:37.1078586Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-11T12:45:00Z",
+        "plannedStartTime": "2018-12-11T05:45:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1061047",
+    "timestamp": "2018-12-10T08:02:44.5143373+00:00",
+    "imo": 9053816,
+    "fromPoint": "4, kaj Djuphamn - Köping",
+    "toPoint": "Landsort 2 M syd, bordn.",
+    "billNumber": 990267096,
+    "statusId": 8,
+    "statusDescription": "OrderDefinitive",
+    "eventBlocks": [
+      {
+        "boardingPoint": "4, kaj Djuphamn - Köping",
+        "id": "1422458",
+        "timestamp": "2018-12-10T08:02:44.4412695Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-11T23:45:00Z",
+        "plannedStartTime": "2018-12-11T17:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1422459",
+        "timestamp": "2018-12-10T08:02:44.4412695Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-12T02:30:00Z",
+        "plannedStartTime": "2018-12-11T23:45:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1061066",
+    "timestamp": "2018-12-10T08:15:45.8849442+00:00",
+    "imo": 9053816,
+    "fromPoint": "4, kaj Djuphamn - Köping",
+    "toPoint": "Landsort 2 M syd, bordn.",
+    "billNumber": 990267096,
+    "statusId": 9,
+    "statusDescription": "OrderConfirmed",
+    "eventBlocks": [
+      {
+        "boardingPoint": "4, kaj Djuphamn - Köping",
+        "id": "1422492",
+        "timestamp": "2018-12-10T08:15:45.8348978Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-12T23:45:00Z",
+        "plannedStartTime": "2018-12-12T17:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1422493",
+        "timestamp": "2018-12-10T08:15:45.8348978Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-13T02:30:00Z",
+        "plannedStartTime": "2018-12-12T23:45:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1061182",
+    "timestamp": "2018-12-10T09:41:56.1664693+00:00",
+    "imo": 9053816,
+    "fromPoint": "Landsort 2 M syd, bordn.",
+    "toPoint": "4, kaj Djuphamn - Köping",
+    "billNumber": 990267095,
+    "statusId": 3,
+    "statusDescription": "BlockPreliminaryAssigned",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Landsort 2 M syd, bordn.",
+        "id": "1422642",
+        "timestamp": "2018-12-10T09:41:56.1614644Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-11T05:45:00Z",
+        "plannedStartTime": "2018-12-11T02:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot preliminary assigned on the lane Södertälje sluss - Landsort"
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1422643",
+        "timestamp": "2018-12-10T09:41:56.1614644Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-11T12:45:00Z",
+        "plannedStartTime": "2018-12-11T05:45:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1061219",
+    "timestamp": "2018-12-10T09:54:56.777985+00:00",
+    "imo": 9053816,
+    "fromPoint": "Landsort 2 M syd, bordn.",
+    "toPoint": "4, kaj Djuphamn - Köping",
+    "billNumber": 990267095,
+    "statusId": 3,
+    "statusDescription": "BlockPreliminaryAssigned",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Landsort 2 M syd, bordn.",
+        "id": "1422682",
+        "timestamp": "2018-12-10T09:54:56.7799873Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-11T05:45:00Z",
+        "plannedStartTime": "2018-12-11T02:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot preliminary assigned on the lane Södertälje sluss - Landsort"
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1422683",
+        "timestamp": "2018-12-10T09:54:56.7809876Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-11T12:45:00Z",
+        "plannedStartTime": "2018-12-11T05:45:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1061222",
+    "timestamp": "2018-12-10T09:55:56.8186958+00:00",
+    "imo": 9053816,
+    "fromPoint": "Landsort 2 M syd, bordn.",
+    "toPoint": "4, kaj Djuphamn - Köping",
+    "billNumber": 990267095,
+    "statusId": 3,
+    "statusDescription": "BlockPreliminaryAssigned",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Landsort 2 M syd, bordn.",
+        "id": "1422688",
+        "timestamp": "2018-12-10T09:55:56.819697Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-11T05:45:00Z",
+        "plannedStartTime": "2018-12-11T02:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1422689",
+        "timestamp": "2018-12-10T09:55:56.819697Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-11T12:45:00Z",
+        "plannedStartTime": "2018-12-11T05:45:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot preliminary assigned on the lane Köping - Södertälje via norra leden"
+      }
+    ]
+  },
+  {
+    "id": "1061223",
+    "timestamp": "2018-12-10T09:55:56.8186958+00:00",
+    "imo": 9053816,
+    "fromPoint": "Landsort 2 M syd, bordn.",
+    "toPoint": "4, kaj Djuphamn - Köping",
+    "billNumber": 990267095,
+    "statusId": 3,
+    "statusDescription": "BlockPreliminaryAssigned",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Landsort 2 M syd, bordn.",
+        "id": "1422690",
+        "timestamp": "2018-12-10T09:55:56.8206972Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-11T05:45:00Z",
+        "plannedStartTime": "2018-12-11T02:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1422691",
+        "timestamp": "2018-12-10T09:55:56.8206972Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-11T12:45:00Z",
+        "plannedStartTime": "2018-12-11T05:45:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot preliminary assigned on the lane Köping - Södertälje via norra leden"
+      }
+    ]
+  },
+  {
+    "id": "1061236",
+    "timestamp": "2018-12-10T10:19:59.3111618+00:00",
+    "imo": 9053816,
+    "fromPoint": "Landsort 2 M syd, bordn.",
+    "toPoint": "4, kaj Djuphamn - Köping",
+    "billNumber": 990267095,
+    "statusId": 9,
+    "statusDescription": "OrderConfirmed",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Landsort 2 M syd, bordn.",
+        "id": "1422721",
+        "timestamp": "2018-12-10T10:19:59.3111618Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-11T05:45:00Z",
+        "plannedStartTime": "2018-12-11T02:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1422722",
+        "timestamp": "2018-12-10T10:19:59.312163Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-11T12:45:00Z",
+        "plannedStartTime": "2018-12-11T05:45:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1061237",
+    "timestamp": "2018-12-10T10:19:59.312163+00:00",
+    "imo": 9053816,
+    "fromPoint": "Landsort 2 M syd, bordn.",
+    "toPoint": "4, kaj Djuphamn - Köping",
+    "billNumber": 990267095,
+    "statusId": 3,
+    "statusDescription": "BlockPreliminaryAssigned",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Landsort 2 M syd, bordn.",
+        "id": "1422723",
+        "timestamp": "2018-12-10T10:19:59.312163Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-11T06:30:00Z",
+        "plannedStartTime": "2018-12-11T03:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1422724",
+        "timestamp": "2018-12-10T10:19:59.312163Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-11T13:30:00Z",
+        "plannedStartTime": "2018-12-11T06:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot preliminary assigned on the lane Köping - Södertälje via norra leden"
+      }
+    ]
+  },
+  {
+    "id": "1061238",
+    "timestamp": "2018-12-10T10:19:59.312163+00:00",
+    "imo": 9053816,
+    "fromPoint": "Landsort 2 M syd, bordn.",
+    "toPoint": "4, kaj Djuphamn - Köping",
+    "billNumber": 990267095,
+    "statusId": 3,
+    "statusDescription": "BlockPreliminaryAssigned",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Landsort 2 M syd, bordn.",
+        "id": "1422725",
+        "timestamp": "2018-12-10T10:19:59.3131642Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-11T06:30:00Z",
+        "plannedStartTime": "2018-12-11T03:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1422726",
+        "timestamp": "2018-12-10T10:19:59.3131642Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-11T13:30:00Z",
+        "plannedStartTime": "2018-12-11T06:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot preliminary assigned on the lane Köping - Södertälje via norra leden"
+      }
+    ]
+  },
+  {
+    "id": "1061240",
+    "timestamp": "2018-12-10T10:20:59.4679763+00:00",
+    "imo": 9053816,
+    "fromPoint": "Landsort 2 M syd, bordn.",
+    "toPoint": "4, kaj Djuphamn - Köping",
+    "billNumber": 990267095,
+    "statusId": 9,
+    "statusDescription": "OrderConfirmed",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Landsort 2 M syd, bordn.",
+        "id": "1422728",
+        "timestamp": "2018-12-10T10:20:59.4279399Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-11T06:30:00Z",
+        "plannedStartTime": "2018-12-11T03:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1422729",
+        "timestamp": "2018-12-10T10:20:59.4279399Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-11T13:30:00Z",
+        "plannedStartTime": "2018-12-11T06:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1061250",
+    "timestamp": "2018-12-10T10:28:00.4461106+00:00",
+    "imo": 9053816,
+    "fromPoint": "Landsort 2 M syd, bordn.",
+    "toPoint": "4, kaj Djuphamn - Köping",
+    "billNumber": 990267095,
+    "statusId": 3,
+    "statusDescription": "BlockPreliminaryAssigned",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Landsort 2 M syd, bordn.",
+        "id": "1422739",
+        "timestamp": "2018-12-10T10:28:00.4641251Z",
+        "lane": "Södertälje sluss - Landsort",
+        "plannedEndTime": "2018-12-11T05:45:00Z",
+        "plannedStartTime": "2018-12-11T02:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": "Södertälje sluss",
+        "id": "1422751",
+        "timestamp": "2018-12-10T10:28:00.4651258Z",
+        "lane": "Köping - Södertälje via norra leden",
+        "plannedEndTime": "2018-12-11T12:45:00Z",
+        "plannedStartTime": "2018-12-11T05:45:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot preliminary assigned on the lane Köping - Södertälje via norra leden"
+      }
+    ]
+  }
+]

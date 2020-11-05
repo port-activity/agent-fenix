@@ -1,0 +1,480 @@
+[
+  {
+    "id": "1533147",
+    "timestamp": "2020-02-06T08:08:39.9603005+00:00",
+    "imo": 9769116,
+    "fromPoint": "Gråsjälsbådan (syd om)",
+    "toPoint": "Sligkajen 16 - Gävle",
+    "billNumber": 990313978,
+    "orderedPilotageStart": "2020-02-07T06:00:00Z",
+    "statusId": 7,
+    "statusDescription": "OrderPreliminary",
+    "shipBeam": 13.6,
+    "shipCurrentDraft": 4.5,
+    "shipLoa": 103,
+    "unLocode": "SEGVX",
+    "swPilotageType": "ARR",
+    "swPortVisitId": "SE000474455",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Gråsjälsbådan (syd om)",
+        "id": "2059586",
+        "timestamp": "2020-02-06T08:08:40.191526Z",
+        "lane": "Avisering Ankomst Gävle",
+        "plannedEndTime": "2020-02-07T05:00:00Z",
+        "plannedStartTime": "2020-02-07T04:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1533478",
+    "timestamp": "2020-02-06T12:55:55.7667909+00:00",
+    "imo": 9769116,
+    "fromPoint": "Gråsjälsbådan (syd om)",
+    "toPoint": "Sligkajen 16 - Gävle",
+    "billNumber": 990313978,
+    "orderedPilotageStart": "2020-02-07T05:00:00Z",
+    "statusId": 8,
+    "statusDescription": "OrderDefinitive",
+    "shipBeam": 13.6,
+    "shipCurrentDraft": 4.5,
+    "shipLoa": 103,
+    "unLocode": "SEGVX",
+    "swPilotageType": "ARR",
+    "swPortVisitId": "SE000474455",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Gråsjälsbådan (syd om)",
+        "id": "2060066",
+        "timestamp": "2020-02-06T12:55:55.7667909Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T07:15:00Z",
+        "plannedStartTime": "2020-02-07T06:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1533513",
+    "timestamp": "2020-02-06T13:19:57.1553322+00:00",
+    "imo": 9769116,
+    "fromPoint": "Gråsjälsbådan (syd om)",
+    "toPoint": "Sligkajen 16 - Gävle",
+    "billNumber": 990313978,
+    "orderedPilotageStart": "2020-02-07T05:00:00Z",
+    "statusId": 9,
+    "statusDescription": "OrderConfirmed",
+    "shipBeam": 13.6,
+    "shipCurrentDraft": 4.5,
+    "shipLoa": 103,
+    "unLocode": "SEGVX",
+    "swPilotageType": "ARR",
+    "swPortVisitId": "SE000474455",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Gråsjälsbådan (syd om)",
+        "id": "2060114",
+        "timestamp": "2020-02-06T13:19:57.1543315Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:15:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1533721",
+    "timestamp": "2020-02-06T16:13:14.5958304+00:00",
+    "imo": 9769116,
+    "fromPoint": "Gråsjälsbådan (syd om)",
+    "toPoint": "Sligkajen 16 - Gävle",
+    "billNumber": 990313978,
+    "orderedPilotageStart": "2020-02-07T05:00:00Z",
+    "statusId": 3,
+    "statusDescription": "BlockPreliminaryAssigned",
+    "shipBeam": 13.6,
+    "shipCurrentDraft": 4.5,
+    "shipLoa": 103,
+    "unLocode": "SEGVX",
+    "swPilotageType": "ARR",
+    "swPortVisitId": "SE000474455",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Gråsjälsbådan (syd om)",
+        "id": "2060414",
+        "timestamp": "2020-02-06T16:13:14.8000287Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:15:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot preliminary assigned on the lane Gävle - Gråsjälsbådan/Purrut"
+      }
+    ]
+  },
+  {
+    "id": "1533724",
+    "timestamp": "2020-02-06T16:14:14.6638448+00:00",
+    "imo": 9769116,
+    "fromPoint": "Gråsjälsbådan (syd om)",
+    "toPoint": "Sligkajen 16 - Gävle",
+    "billNumber": 990313978,
+    "orderedPilotageStart": "2020-02-07T05:00:00Z",
+    "statusId": 3,
+    "statusDescription": "BlockPreliminaryAssigned",
+    "shipBeam": 13.6,
+    "shipCurrentDraft": 4.5,
+    "shipLoa": 103,
+    "unLocode": "SEGVX",
+    "swPilotageType": "ARR",
+    "swPortVisitId": "SE000474455",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Gråsjälsbådan (syd om)",
+        "id": "2060417",
+        "timestamp": "2020-02-06T16:14:14.6678496Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:15:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1533967",
+    "timestamp": "2020-02-07T01:51:59.9856645+00:00",
+    "imo": 9769116,
+    "fromPoint": "Gråsjälsbådan (syd om)",
+    "toPoint": "Sligkajen 16 - Gävle",
+    "billNumber": 990313978,
+    "orderedPilotageStart": "2020-02-07T05:00:00Z",
+    "statusId": 4,
+    "statusDescription": "BlockDefinitivelyAssigned",
+    "shipBeam": 13.6,
+    "shipCurrentDraft": 4.5,
+    "shipLoa": 103,
+    "unLocode": "SEGVX",
+    "swPilotageType": "ARR",
+    "swPortVisitId": "SE000474455",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Gråsjälsbådan (syd om)",
+        "id": "2060789",
+        "timestamp": "2020-02-07T01:51:59.99267Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:15:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot definitively assigned on the lane Gävle - Gråsjälsbådan/Purrut"
+      },
+      {
+        "boardingPoint": null,
+        "id": "2060790",
+        "timestamp": "2020-02-07T01:51:59.99267Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:15:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1534000",
+    "timestamp": "2020-02-07T04:16:08.505236+00:00",
+    "imo": 9769116,
+    "fromPoint": "Gråsjälsbådan (syd om)",
+    "toPoint": "Sligkajen 16 - Gävle",
+    "billNumber": 990313978,
+    "orderedPilotageStart": "2020-02-07T05:00:00Z",
+    "statusId": 10,
+    "statusDescription": "OrderStarted",
+    "shipBeam": 13.6,
+    "shipCurrentDraft": 4.5,
+    "shipLoa": 103,
+    "unLocode": "SEGVX",
+    "swPilotageType": "ARR",
+    "swPortVisitId": "SE000474455",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Gråsjälsbådan (syd om)",
+        "id": "2060873",
+        "timestamp": "2020-02-07T04:16:08.7995125Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:15:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": null,
+        "id": "2060874",
+        "timestamp": "2020-02-07T04:16:08.8005137Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:15:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": "2020-02-07T05:00:00Z",
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1534001",
+    "timestamp": "2020-02-07T04:16:08.505236+00:00",
+    "imo": 9769116,
+    "fromPoint": "Gråsjälsbådan (syd om)",
+    "toPoint": "Sligkajen 16 - Gävle",
+    "billNumber": 990313978,
+    "orderedPilotageStart": "2020-02-07T05:00:00Z",
+    "statusId": 5,
+    "statusDescription": "BlockStarted",
+    "shipBeam": 13.6,
+    "shipCurrentDraft": 4.5,
+    "shipLoa": 103,
+    "unLocode": "SEGVX",
+    "swPilotageType": "ARR",
+    "swPortVisitId": "SE000474455",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Gråsjälsbådan (syd om)",
+        "id": "2060875",
+        "timestamp": "2020-02-07T04:16:08.8005137Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:15:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": null,
+        "id": "2060876",
+        "timestamp": "2020-02-07T04:16:08.8005137Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:15:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": "2020-02-07T05:00:00Z",
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilotage started at 2020-02-07T05:00:00 on the lane Gävle - Gråsjälsbådan/Purrut"
+      }
+    ]
+  },
+  {
+    "id": "1534002",
+    "timestamp": "2020-02-07T04:16:08.505236+00:00",
+    "imo": 9769116,
+    "fromPoint": "Gråsjälsbådan (syd om)",
+    "toPoint": "Sligkajen 16 - Gävle",
+    "billNumber": 990313978,
+    "orderedPilotageStart": "2020-02-07T05:00:00Z",
+    "statusId": 5,
+    "statusDescription": "BlockStarted",
+    "shipBeam": 13.6,
+    "shipCurrentDraft": 4.5,
+    "shipLoa": 103,
+    "unLocode": "SEGVX",
+    "swPilotageType": "ARR",
+    "swPortVisitId": "SE000474455",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Gråsjälsbådan (syd om)",
+        "id": "2060877",
+        "timestamp": "2020-02-07T04:16:08.8015148Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:15:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": "2020-02-07T05:00:00Z",
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilotage started at 2020-02-07T05:00:00 on the lane Gävle - Gråsjälsbådan/Purrut"
+      },
+      {
+        "boardingPoint": null,
+        "id": "2060878",
+        "timestamp": "2020-02-07T04:16:08.8015148Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:15:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": "2020-02-07T05:00:00Z",
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1534009",
+    "timestamp": "2020-02-07T04:03:07.9709197+00:00",
+    "imo": 9769116,
+    "fromPoint": "Gråsjälsbådan (syd om)",
+    "toPoint": "Sligkajen 16 - Gävle",
+    "billNumber": 990313978,
+    "orderedPilotageStart": "2020-02-07T05:00:00Z",
+    "statusId": 4,
+    "statusDescription": "BlockDefinitivelyAssigned",
+    "shipBeam": 13.6,
+    "shipCurrentDraft": 4.5,
+    "shipLoa": 103,
+    "unLocode": "SEGVX",
+    "swPilotageType": "ARR",
+    "swPortVisitId": "SE000474455",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Gråsjälsbådan (syd om)",
+        "id": "2060865",
+        "timestamp": "2020-02-07T04:03:07.9779248Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:15:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": null,
+        "id": "2060866",
+        "timestamp": "2020-02-07T04:03:07.9779248Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:15:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot definitively assigned on the lane Gävle - Gråsjälsbådan/Purrut"
+      }
+    ]
+  },
+  {
+    "id": "1534050",
+    "timestamp": "2020-02-07T05:37:12.8719718+00:00",
+    "imo": 9769116,
+    "fromPoint": "Gråsjälsbådan (syd om)",
+    "toPoint": "Sligkajen 16 - Gävle",
+    "billNumber": 990313978,
+    "orderedPilotageStart": "2020-02-07T05:00:00Z",
+    "statusId": 6,
+    "statusDescription": "BlockFinished",
+    "shipBeam": 13.6,
+    "shipCurrentDraft": 4.5,
+    "shipLoa": 103,
+    "unLocode": "SEGVX",
+    "swPilotageType": "ARR",
+    "swPortVisitId": "SE000474455",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Gråsjälsbådan (syd om)",
+        "id": "2060934",
+        "timestamp": "2020-02-07T05:37:13.1482331Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:15:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": "2020-02-07T05:00:00Z",
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": null,
+        "id": "2060935",
+        "timestamp": "2020-02-07T05:37:13.1492343Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:40:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": "2020-02-07T05:00:00Z",
+        "actualEndTime": "2020-02-07T06:40:00Z",
+        "statusChangedDescription": "Pilotage finished at 2020-02-07T06:40:00 on the lane Gävle - Gråsjälsbådan/Purrut"
+      }
+    ]
+  },
+  {
+    "id": "1534060",
+    "timestamp": "2020-02-07T05:37:12.8719718+00:00",
+    "imo": 9769116,
+    "fromPoint": "Gråsjälsbådan (syd om)",
+    "toPoint": "Sligkajen 16 - Gävle",
+    "billNumber": 990313978,
+    "orderedPilotageStart": "2020-02-07T05:00:00Z",
+    "statusId": 11,
+    "statusDescription": "OrderFinished",
+    "shipBeam": 13.6,
+    "shipCurrentDraft": 4.5,
+    "shipLoa": 103,
+    "unLocode": "SEGVX",
+    "swPilotageType": "ARR",
+    "swPortVisitId": "SE000474455",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Gråsjälsbådan (syd om)",
+        "id": "2060922",
+        "timestamp": "2020-02-07T05:37:13.1492343Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:40:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": "2020-02-07T05:00:00Z",
+        "actualEndTime": "2020-02-07T06:40:00Z",
+        "statusChangedDescription": null
+      },
+      {
+        "boardingPoint": null,
+        "id": "2060923",
+        "timestamp": "2020-02-07T05:37:13.1492343Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:40:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": "2020-02-07T05:00:00Z",
+        "actualEndTime": "2020-02-07T06:40:00Z",
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1534061",
+    "timestamp": "2020-02-07T05:37:12.8719718+00:00",
+    "imo": 9769116,
+    "fromPoint": "Gråsjälsbådan (syd om)",
+    "toPoint": "Sligkajen 16 - Gävle",
+    "billNumber": 990313978,
+    "orderedPilotageStart": "2020-02-07T05:00:00Z",
+    "statusId": 6,
+    "statusDescription": "BlockFinished",
+    "shipBeam": 13.6,
+    "shipCurrentDraft": 4.5,
+    "shipLoa": 103,
+    "unLocode": "SEGVX",
+    "swPilotageType": "ARR",
+    "swPortVisitId": "SE000474455",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Gråsjälsbådan (syd om)",
+        "id": "2060924",
+        "timestamp": "2020-02-07T05:37:13.150235Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:40:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": "2020-02-07T05:00:00Z",
+        "actualEndTime": "2020-02-07T06:40:00Z",
+        "statusChangedDescription": "Pilotage finished at 2020-02-07T06:40:00 on the lane Gävle - Gråsjälsbådan/Purrut"
+      },
+      {
+        "boardingPoint": null,
+        "id": "2060925",
+        "timestamp": "2020-02-07T05:37:13.150235Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:40:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": "2020-02-07T05:00:00Z",
+        "actualEndTime": "2020-02-07T06:40:00Z",
+        "statusChangedDescription": null
+      }
+    ]
+  }
+]

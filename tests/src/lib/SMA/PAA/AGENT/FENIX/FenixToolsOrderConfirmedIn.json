@@ -1,0 +1,30 @@
+{
+    "id": "1533513",
+    "timestamp": "2020-02-06T13:19:57.1553322+00:00",
+    "imo": 9769116,
+    "fromPoint": "Gråsjälsbådan (syd om)",
+    "toPoint": "Sligkajen 16 - Gävle",
+    "billNumber": 990313978,
+    "orderedPilotageStart": "2020-02-07T05:00:00Z",
+    "statusId": 9,
+    "statusDescription": "OrderConfirmed",
+    "shipBeam": 13.6,
+    "shipCurrentDraft": 4.5,
+    "shipLoa": 103,
+    "unLocode": "SEGVX",
+    "swPilotageType": "ARR",
+    "swPortVisitId": "SE000474455",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Gråsjälsbådan (syd om)",
+        "id": "2060114",
+        "timestamp": "2020-02-06T13:19:57.1543315Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2020-02-07T06:15:00Z",
+        "plannedStartTime": "2020-02-07T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+}

@@ -1,0 +1,15 @@
+image: php:7
+
+pipelines:
+  default:
+    - step:
+        caches:
+          - composer
+        script:
+          - apt update
+          - apt install -y wget git zip unzip
+          - wget https://getcomposer.org/installer
+          - php installer
+          - php composer.phar install
+          - make lint
+          - make test

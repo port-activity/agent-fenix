@@ -1,0 +1,65 @@
+apiVersion: batch/v1beta1
+kind: CronJob
+metadata:
+  name: agent-fenix
+spec:
+  concurrencyPolicy: Forbid
+  schedule: "*/5 * * * *"
+  jobTemplate:
+    spec:
+      activeDeadlineSeconds: 1200
+      backoffLimit: 1
+      template:
+        spec:
+          restartPolicy: Never
+          imagePullSecrets:
+          - name: pipeline-docker-registry
+          containers:
+          - name: agent-fenix
+            image: ${CICD_IMAGE}:${CICD_EXECUTION_SEQUENCE}-${CICD_GIT_COMMIT}
+            env:
+              - name: API_URL
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-fenix
+                    key: API_URL
+              - name: API_KEY
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-fenix
+                    key: API_KEY
+              - name: REDIS_URL
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-fenix
+                    key: REDIS_URL
+              - name: LOCODES
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-fenix
+                    key: LOCODES
+              - name: FENIX_REQUEST_URL
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-fenix
+                    key: FENIX_REQUEST_URL
+              - name: FENIX_BASIC_AUTH
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-fenix
+                    key: FENIX_BASIC_AUTH
+              - name: AINO_API_KEY
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-fenix
+                    key: AINO_API_KEY
+              - name: FENIX_AGENT_FROM_OFFSET_MINUTES
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-fenix
+                    key: FENIX_AGENT_FROM_OFFSET_MINUTES
+              - name: FENIX_AGENT_TO_OFFSET_MINUTES
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-fenix
+                    key: FENIX_AGENT_TO_OFFSET_MINUTES

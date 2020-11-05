@@ -1,0 +1,450 @@
+[
+  {
+    "id": "1272812",
+    "timestamp": "2019-12-04T12:56:45.1064034+00:00",
+    "imo": 9295347,
+    "fromPoint": "Purrut, bordning",
+    "toPoint": "Containerkajen 19 - Gävle",
+    "billNumber": 990289148,
+    "orderedPilotageStart": "2019-12-05T00:00:00Z",
+    "statusId": 8,
+    "statusDescription": "OrderDefinitive",
+    "shipBeam": 27.39,
+    "shipCurrentDraft": 5.5,
+    "shipLoa": 182.55,
+    "unLocode": "SEGVX",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Purrut, bordning",
+        "id": "1710546",
+        "timestamp": "2019-12-04T12:56:45.4816659Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2019-12-05T01:00:00Z",
+        "plannedStartTime": "2019-12-05T00:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1272813",
+    "timestamp": "2019-12-04T12:56:45.1074041+00:00",
+    "imo": 9295347,
+    "fromPoint": "Purrut, bordning",
+    "toPoint": "Containerkajen 19 - Gävle",
+    "billNumber": 990289148,
+    "orderedPilotageStart": "2019-12-05T00:00:00Z",
+    "statusId": 9,
+    "statusDescription": "OrderConfirmed",
+    "shipBeam": 27.39,
+    "shipCurrentDraft": 5.5,
+    "shipLoa": 182.55,
+    "unLocode": "SEGVX",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Purrut, bordning",
+        "id": "1710547",
+        "timestamp": "2019-12-04T12:56:45.4816659Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2019-12-05T01:00:00Z",
+        "plannedStartTime": "2019-12-05T00:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1272814",
+    "timestamp": "2019-12-04T12:56:45.1074041+00:00",
+    "imo": 9295347,
+    "fromPoint": "Purrut, bordning",
+    "toPoint": "Containerkajen 19 - Gävle",
+    "billNumber": 990289148,
+    "orderedPilotageStart": "2019-12-05T00:00:00Z",
+    "statusId": 3,
+    "statusDescription": "BlockPreliminaryAssigned",
+    "shipBeam": 27.39,
+    "shipCurrentDraft": 5.5,
+    "shipLoa": 182.55,
+    "unLocode": "SEGVX",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Purrut, bordning",
+        "id": "1710548",
+        "timestamp": "2019-12-04T12:56:45.4826666Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2019-12-05T01:00:00Z",
+        "plannedStartTime": "2019-12-05T00:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot preliminary assigned on the lane Gävle - Gråsjälsbådan/Purrut"
+      }
+    ]
+  },
+  {
+    "id": "1272815",
+    "timestamp": "2019-12-04T12:56:45.1084048+00:00",
+    "imo": 9295347,
+    "fromPoint": "Purrut, bordning",
+    "toPoint": "Containerkajen 19 - Gävle",
+    "billNumber": 990289148,
+    "orderedPilotageStart": "2019-12-05T00:00:00Z",
+    "statusId": 4,
+    "statusDescription": "BlockDefinitivelyAssigned",
+    "shipBeam": 27.39,
+    "shipCurrentDraft": 5.5,
+    "shipLoa": 182.55,
+    "unLocode": "SEGVX",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Purrut, bordning",
+        "id": "1710549",
+        "timestamp": "2019-12-04T12:56:45.4826666Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2019-12-05T01:00:00Z",
+        "plannedStartTime": "2019-12-05T00:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot definitively assigned on the lane Gävle - Gråsjälsbådan/Purrut"
+      }
+    ]
+  },
+  {
+    "id": "1272816",
+    "timestamp": "2019-12-04T12:57:45.1970928+00:00",
+    "imo": 9295347,
+    "fromPoint": "Purrut, bordning",
+    "toPoint": "Containerkajen 19 - Gävle",
+    "billNumber": 990289148,
+    "orderedPilotageStart": "2019-12-05T00:00:00Z",
+    "statusId": 10,
+    "statusDescription": "OrderStarted",
+    "shipBeam": 27.39,
+    "shipCurrentDraft": 5.5,
+    "shipLoa": 182.55,
+    "unLocode": "SEGVX",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Purrut, bordning",
+        "id": "1710550",
+        "timestamp": "2019-12-04T12:57:45.1960921Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2019-12-05T01:00:00Z",
+        "plannedStartTime": "2019-12-05T00:00:00Z",
+        "actualStartTime": "2019-12-05T00:00:00Z",
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1272817",
+    "timestamp": "2019-12-04T12:57:45.1970928+00:00",
+    "imo": 9295347,
+    "fromPoint": "Purrut, bordning",
+    "toPoint": "Containerkajen 19 - Gävle",
+    "billNumber": 990289148,
+    "orderedPilotageStart": "2019-12-05T00:00:00Z",
+    "statusId": 5,
+    "statusDescription": "BlockStarted",
+    "shipBeam": 27.39,
+    "shipCurrentDraft": 5.5,
+    "shipLoa": 182.55,
+    "unLocode": "SEGVX",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Purrut, bordning",
+        "id": "1710551",
+        "timestamp": "2019-12-04T12:57:45.1960921Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2019-12-05T01:00:00Z",
+        "plannedStartTime": "2019-12-05T00:00:00Z",
+        "actualStartTime": "2019-12-05T00:00:00Z",
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilotage started at 2019-12-05T00:00:00 on the lane Gävle - Gråsjälsbådan/Purrut"
+      }
+    ]
+  },
+  {
+    "id": "1272818",
+    "timestamp": "2019-12-04T12:57:45.1970928+00:00",
+    "imo": 9295347,
+    "fromPoint": "Purrut, bordning",
+    "toPoint": "Containerkajen 19 - Gävle",
+    "billNumber": 990289148,
+    "orderedPilotageStart": "2019-12-05T00:00:00Z",
+    "statusId": 11,
+    "statusDescription": "OrderFinished",
+    "shipBeam": 27.39,
+    "shipCurrentDraft": 5.5,
+    "shipLoa": 182.55,
+    "unLocode": "SEGVX",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Purrut, bordning",
+        "id": "1710552",
+        "timestamp": "2019-12-04T12:57:45.1960921Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2019-12-05T01:00:00Z",
+        "plannedStartTime": "2019-12-05T00:00:00Z",
+        "actualStartTime": "2019-12-05T00:00:00Z",
+        "actualEndTime": "2019-12-05T01:00:00Z",
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1272819",
+    "timestamp": "2019-12-04T12:57:45.1970928+00:00",
+    "imo": 9295347,
+    "fromPoint": "Purrut, bordning",
+    "toPoint": "Containerkajen 19 - Gävle",
+    "billNumber": 990289148,
+    "orderedPilotageStart": "2019-12-05T00:00:00Z",
+    "statusId": 6,
+    "statusDescription": "BlockFinished",
+    "shipBeam": 27.39,
+    "shipCurrentDraft": 5.5,
+    "shipLoa": 182.55,
+    "unLocode": "SEGVX",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Purrut, bordning",
+        "id": "1710553",
+        "timestamp": "2019-12-04T12:57:45.1970928Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2019-12-05T01:00:00Z",
+        "plannedStartTime": "2019-12-05T00:00:00Z",
+        "actualStartTime": "2019-12-05T00:00:00Z",
+        "actualEndTime": "2019-12-05T01:00:00Z",
+        "statusChangedDescription": "Pilotage finished at 2019-12-05T01:00:00 on the lane Gävle - Gråsjälsbådan/Purrut"
+      }
+    ]
+  },
+  {
+    "id": "1272822",
+    "timestamp": "2019-12-04T14:36:53.4004265+00:00",
+    "imo": 9295347,
+    "fromPoint": "Containerkajen 19 - Gävle",
+    "toPoint": "Purrut, bordning",
+    "billNumber": 990289149,
+    "orderedPilotageStart": "2019-12-06T12:00:00Z",
+    "statusId": 8,
+    "statusDescription": "OrderDefinitive",
+    "shipBeam": 27.39,
+    "shipCurrentDraft": 7.5,
+    "shipLoa": 182.55,
+    "unLocode": "SEGVX",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Containerkajen 19 - Gävle",
+        "id": "1710556",
+        "timestamp": "2019-12-04T14:36:53.5024977Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2019-12-06T13:00:00Z",
+        "plannedStartTime": "2019-12-06T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1272823",
+    "timestamp": "2019-12-04T14:36:53.4004265+00:00",
+    "imo": 9295347,
+    "fromPoint": "Containerkajen 19 - Gävle",
+    "toPoint": "Purrut, bordning",
+    "billNumber": 990289149,
+    "orderedPilotageStart": "2019-12-06T12:00:00Z",
+    "statusId": 9,
+    "statusDescription": "OrderConfirmed",
+    "shipBeam": 27.39,
+    "shipCurrentDraft": 7.5,
+    "shipLoa": 182.55,
+    "unLocode": "SEGVX",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Containerkajen 19 - Gävle",
+        "id": "1710557",
+        "timestamp": "2019-12-04T14:36:53.5024977Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2019-12-06T13:00:00Z",
+        "plannedStartTime": "2019-12-06T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1272824",
+    "timestamp": "2019-12-04T14:36:53.4004265+00:00",
+    "imo": 9295347,
+    "fromPoint": "Containerkajen 19 - Gävle",
+    "toPoint": "Purrut, bordning",
+    "billNumber": 990289149,
+    "orderedPilotageStart": "2019-12-06T12:00:00Z",
+    "statusId": 3,
+    "statusDescription": "BlockPreliminaryAssigned",
+    "shipBeam": 27.39,
+    "shipCurrentDraft": 7.5,
+    "shipLoa": 182.55,
+    "unLocode": "SEGVX",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Containerkajen 19 - Gävle",
+        "id": "1710558",
+        "timestamp": "2019-12-04T14:36:53.5024977Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2019-12-06T13:00:00Z",
+        "plannedStartTime": "2019-12-06T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot preliminary assigned on the lane Gävle - Gråsjälsbådan/Purrut"
+      }
+    ]
+  },
+  {
+    "id": "1272825",
+    "timestamp": "2019-12-04T14:37:53.3500198+00:00",
+    "imo": 9295347,
+    "fromPoint": "Containerkajen 19 - Gävle",
+    "toPoint": "Purrut, bordning",
+    "billNumber": 990289149,
+    "orderedPilotageStart": "2019-12-06T12:00:00Z",
+    "statusId": 10,
+    "statusDescription": "OrderStarted",
+    "shipBeam": 27.39,
+    "shipCurrentDraft": 7.5,
+    "shipLoa": 182.55,
+    "unLocode": "SEGVX",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Containerkajen 19 - Gävle",
+        "id": "1710559",
+        "timestamp": "2019-12-04T14:37:53.3530223Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2019-12-06T13:00:00Z",
+        "plannedStartTime": "2019-12-06T12:00:00Z",
+        "actualStartTime": "2019-12-06T12:00:00Z",
+        "actualEndTime": null,
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1272826",
+    "timestamp": "2019-12-04T14:37:53.3500198+00:00",
+    "imo": 9295347,
+    "fromPoint": "Containerkajen 19 - Gävle",
+    "toPoint": "Purrut, bordning",
+    "billNumber": 990289149,
+    "orderedPilotageStart": "2019-12-06T12:00:00Z",
+    "statusId": 5,
+    "statusDescription": "BlockStarted",
+    "shipBeam": 27.39,
+    "shipCurrentDraft": 7.5,
+    "shipLoa": 182.55,
+    "unLocode": "SEGVX",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Containerkajen 19 - Gävle",
+        "id": "1710560",
+        "timestamp": "2019-12-04T14:37:53.3540226Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2019-12-06T13:00:00Z",
+        "plannedStartTime": "2019-12-06T12:00:00Z",
+        "actualStartTime": "2019-12-06T12:00:00Z",
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilotage started at 2019-12-06T12:00:00 on the lane Gävle - Gråsjälsbådan/Purrut"
+      }
+    ]
+  },
+  {
+    "id": "1272827",
+    "timestamp": "2019-12-04T14:37:53.3500198+00:00",
+    "imo": 9295347,
+    "fromPoint": "Containerkajen 19 - Gävle",
+    "toPoint": "Purrut, bordning",
+    "billNumber": 990289149,
+    "orderedPilotageStart": "2019-12-06T12:00:00Z",
+    "statusId": 11,
+    "statusDescription": "OrderFinished",
+    "shipBeam": 27.39,
+    "shipCurrentDraft": 7.5,
+    "shipLoa": 182.55,
+    "unLocode": "SEGVX",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Containerkajen 19 - Gävle",
+        "id": "1710561",
+        "timestamp": "2019-12-04T14:37:53.3540226Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2019-12-06T13:00:00Z",
+        "plannedStartTime": "2019-12-06T12:00:00Z",
+        "actualStartTime": "2019-12-06T12:00:00Z",
+        "actualEndTime": "2019-12-06T13:00:00Z",
+        "statusChangedDescription": null
+      }
+    ]
+  },
+  {
+    "id": "1272828",
+    "timestamp": "2019-12-04T14:37:53.3510209+00:00",
+    "imo": 9295347,
+    "fromPoint": "Containerkajen 19 - Gävle",
+    "toPoint": "Purrut, bordning",
+    "billNumber": 990289149,
+    "orderedPilotageStart": "2019-12-06T12:00:00Z",
+    "statusId": 6,
+    "statusDescription": "BlockFinished",
+    "shipBeam": 27.39,
+    "shipCurrentDraft": 7.5,
+    "shipLoa": 182.55,
+    "unLocode": "SEGVX",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Containerkajen 19 - Gävle",
+        "id": "1710562",
+        "timestamp": "2019-12-04T14:37:53.3540226Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2019-12-06T13:00:00Z",
+        "plannedStartTime": "2019-12-06T12:00:00Z",
+        "actualStartTime": "2019-12-06T12:00:00Z",
+        "actualEndTime": "2019-12-06T13:00:00Z",
+        "statusChangedDescription": "Pilotage finished at 2019-12-06T13:00:00 on the lane Gävle - Gråsjälsbådan/Purrut"
+      }
+    ]
+  },
+  {
+    "id": "1272835",
+    "timestamp": "2019-12-04T14:37:53.4160673+00:00",
+    "imo": 9295347,
+    "fromPoint": "Containerkajen 19 - Gävle",
+    "toPoint": "Purrut, bordning",
+    "billNumber": 990289149,
+    "orderedPilotageStart": "2019-12-06T12:00:00Z",
+    "statusId": 4,
+    "statusDescription": "BlockDefinitivelyAssigned",
+    "shipBeam": 27.39,
+    "shipCurrentDraft": 7.5,
+    "shipLoa": 182.55,
+    "unLocode": "SEGVX",
+    "eventBlocks": [
+      {
+        "boardingPoint": "Containerkajen 19 - Gävle",
+        "id": "1710569",
+        "timestamp": "2019-12-04T14:37:53.3540226Z",
+        "lane": "Gävle - Gråsjälsbådan/Purrut",
+        "plannedEndTime": "2019-12-06T13:00:00Z",
+        "plannedStartTime": "2019-12-06T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null,
+        "statusChangedDescription": "Pilot definitively assigned on the lane Gävle - Gråsjälsbådan/Purrut"
+      }
+    ]
+  }
+]

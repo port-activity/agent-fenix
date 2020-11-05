@@ -1,0 +1,249 @@
+[
+    {
+        "imo": 9769116,
+        "vessel_name": "",
+        "time_type": "Estimated",
+        "state": "Pilotage_Commenced",
+        "time": "2020-02-07T06:00:00+0000",
+        "payload": {
+            "source": "Fenix",
+            "external_id": "SE000474455",
+            "direction": "inbound",
+            "vessel_beam": 13.6,
+            "vessel_draft": 4.5,
+            "vessel_loa": 103,
+            "original_message": {
+                "id": "1533147",
+                "timestamp": "2020-02-06T08:08:39.9603005+00:00",
+                "imo": 9769116,
+                "fromPoint": "Gr\u00e5sj\u00e4lsb\u00e5dan (syd om)",
+                "toPoint": "Sligkajen 16 - G\u00e4vle",
+                "billNumber": 990313978,
+                "orderedPilotageStart": "2020-02-07T06:00:00Z",
+                "statusId": 7,
+                "statusDescription": "OrderPreliminary",
+                "shipBeam": 13.6,
+                "shipCurrentDraft": 4.5,
+                "shipLoa": 103,
+                "unLocode": "SEGVX",
+                "swPilotageType": "ARR",
+                "swPortVisitId": "SE000474455",
+                "eventBlocks": [
+                    {
+                        "boardingPoint": "Gr\u00e5sj\u00e4lsb\u00e5dan (syd om)",
+                        "id": "2059586",
+                        "timestamp": "2020-02-06T08:08:40.191526Z",
+                        "lane": "Avisering Ankomst G\u00e4vle",
+                        "plannedEndTime": "2020-02-07T05:00:00Z",
+                        "plannedStartTime": "2020-02-07T04:00:00Z",
+                        "actualStartTime": null,
+                        "actualEndTime": null,
+                        "statusChangedDescription": null
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "imo": 9769116,
+        "vessel_name": "",
+        "time_type": "Estimated",
+        "state": "Pilotage_Commenced",
+        "time": "2020-02-07T05:00:00+0000",
+        "payload": {
+            "source": "Fenix",
+            "external_id": "SE000474455",
+            "direction": "inbound",
+            "vessel_beam": 13.6,
+            "vessel_draft": 4.5,
+            "vessel_loa": 103,
+            "original_message": {
+                "id": "1533478",
+                "timestamp": "2020-02-06T12:55:55.7667909+00:00",
+                "imo": 9769116,
+                "fromPoint": "Gr\u00e5sj\u00e4lsb\u00e5dan (syd om)",
+                "toPoint": "Sligkajen 16 - G\u00e4vle",
+                "billNumber": 990313978,
+                "orderedPilotageStart": "2020-02-07T05:00:00Z",
+                "statusId": 8,
+                "statusDescription": "OrderDefinitive",
+                "shipBeam": 13.6,
+                "shipCurrentDraft": 4.5,
+                "shipLoa": 103,
+                "unLocode": "SEGVX",
+                "swPilotageType": "ARR",
+                "swPortVisitId": "SE000474455",
+                "eventBlocks": [
+                    {
+                        "boardingPoint": "Gr\u00e5sj\u00e4lsb\u00e5dan (syd om)",
+                        "id": "2060066",
+                        "timestamp": "2020-02-06T12:55:55.7667909Z",
+                        "lane": "G\u00e4vle - Gr\u00e5sj\u00e4lsb\u00e5dan\/Purrut",
+                        "plannedEndTime": "2020-02-07T07:15:00Z",
+                        "plannedStartTime": "2020-02-07T06:00:00Z",
+                        "actualStartTime": null,
+                        "actualEndTime": null,
+                        "statusChangedDescription": null
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "imo": 9769116,
+        "vessel_name": "",
+        "time_type": "Planned",
+        "state": "Pilotage_Commenced",
+        "time": "2020-02-07T05:00:00+0000",
+        "payload": {
+            "source": "Fenix",
+            "external_id": "SE000474455",
+            "direction": "inbound",
+            "vessel_beam": 13.6,
+            "vessel_draft": 4.5,
+            "vessel_loa": 103,
+            "original_message": {
+                "id": "1533513",
+                "timestamp": "2020-02-06T13:19:57.1553322+00:00",
+                "imo": 9769116,
+                "fromPoint": "Gr\u00e5sj\u00e4lsb\u00e5dan (syd om)",
+                "toPoint": "Sligkajen 16 - G\u00e4vle",
+                "billNumber": 990313978,
+                "orderedPilotageStart": "2020-02-07T05:00:00Z",
+                "statusId": 9,
+                "statusDescription": "OrderConfirmed",
+                "shipBeam": 13.6,
+                "shipCurrentDraft": 4.5,
+                "shipLoa": 103,
+                "unLocode": "SEGVX",
+                "swPilotageType": "ARR",
+                "swPortVisitId": "SE000474455",
+                "eventBlocks": [
+                    {
+                        "boardingPoint": "Gr\u00e5sj\u00e4lsb\u00e5dan (syd om)",
+                        "id": "2060114",
+                        "timestamp": "2020-02-06T13:19:57.1543315Z",
+                        "lane": "G\u00e4vle - Gr\u00e5sj\u00e4lsb\u00e5dan\/Purrut",
+                        "plannedEndTime": "2020-02-07T06:15:00Z",
+                        "plannedStartTime": "2020-02-07T05:00:00Z",
+                        "actualStartTime": null,
+                        "actualEndTime": null,
+                        "statusChangedDescription": null
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "imo": 9769116,
+        "vessel_name": "",
+        "time_type": "Actual",
+        "state": "Pilotage_Commenced",
+        "time": "2020-02-07T05:00:00+0000",
+        "payload": {
+            "source": "Fenix",
+            "external_id": "SE000474455",
+            "direction": "inbound",
+            "vessel_beam": 13.6,
+            "vessel_draft": 4.5,
+            "vessel_loa": 103,
+            "original_message": {
+                "id": "1534000",
+                "timestamp": "2020-02-07T04:16:08.505236+00:00",
+                "imo": 9769116,
+                "fromPoint": "Gr\u00e5sj\u00e4lsb\u00e5dan (syd om)",
+                "toPoint": "Sligkajen 16 - G\u00e4vle",
+                "billNumber": 990313978,
+                "orderedPilotageStart": "2020-02-07T05:00:00Z",
+                "statusId": 10,
+                "statusDescription": "OrderStarted",
+                "shipBeam": 13.6,
+                "shipCurrentDraft": 4.5,
+                "shipLoa": 103,
+                "unLocode": "SEGVX",
+                "swPilotageType": "ARR",
+                "swPortVisitId": "SE000474455",
+                "eventBlocks": [
+                    {
+                        "boardingPoint": "Gr\u00e5sj\u00e4lsb\u00e5dan (syd om)",
+                        "id": "2060873",
+                        "timestamp": "2020-02-07T04:16:08.7995125Z",
+                        "lane": "G\u00e4vle - Gr\u00e5sj\u00e4lsb\u00e5dan\/Purrut",
+                        "plannedEndTime": "2020-02-07T06:15:00Z",
+                        "plannedStartTime": "2020-02-07T05:00:00Z",
+                        "actualStartTime": null,
+                        "actualEndTime": null,
+                        "statusChangedDescription": null
+                    },
+                    {
+                        "boardingPoint": null,
+                        "id": "2060874",
+                        "timestamp": "2020-02-07T04:16:08.8005137Z",
+                        "lane": "G\u00e4vle - Gr\u00e5sj\u00e4lsb\u00e5dan\/Purrut",
+                        "plannedEndTime": "2020-02-07T06:15:00Z",
+                        "plannedStartTime": "2020-02-07T05:00:00Z",
+                        "actualStartTime": "2020-02-07T05:00:00Z",
+                        "actualEndTime": null,
+                        "statusChangedDescription": null
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "imo": 9769116,
+        "vessel_name": "",
+        "time_type": "Actual",
+        "state": "Pilotage_Completed",
+        "time": "2020-02-07T06:40:00+0000",
+        "payload": {
+            "source": "Fenix",
+            "external_id": "SE000474455",
+            "direction": "inbound",
+            "vessel_beam": 13.6,
+            "vessel_draft": 4.5,
+            "vessel_loa": 103,
+            "original_message": {
+                "id": "1534060",
+                "timestamp": "2020-02-07T05:37:12.8719718+00:00",
+                "imo": 9769116,
+                "fromPoint": "Gr\u00e5sj\u00e4lsb\u00e5dan (syd om)",
+                "toPoint": "Sligkajen 16 - G\u00e4vle",
+                "billNumber": 990313978,
+                "orderedPilotageStart": "2020-02-07T05:00:00Z",
+                "statusId": 11,
+                "statusDescription": "OrderFinished",
+                "shipBeam": 13.6,
+                "shipCurrentDraft": 4.5,
+                "shipLoa": 103,
+                "unLocode": "SEGVX",
+                "swPilotageType": "ARR",
+                "swPortVisitId": "SE000474455",
+                "eventBlocks": [
+                    {
+                        "boardingPoint": "Gr\u00e5sj\u00e4lsb\u00e5dan (syd om)",
+                        "id": "2060922",
+                        "timestamp": "2020-02-07T05:37:13.1492343Z",
+                        "lane": "G\u00e4vle - Gr\u00e5sj\u00e4lsb\u00e5dan\/Purrut",
+                        "plannedEndTime": "2020-02-07T06:40:00Z",
+                        "plannedStartTime": "2020-02-07T05:00:00Z",
+                        "actualStartTime": "2020-02-07T05:00:00Z",
+                        "actualEndTime": "2020-02-07T06:40:00Z",
+                        "statusChangedDescription": null
+                    },
+                    {
+                        "boardingPoint": null,
+                        "id": "2060923",
+                        "timestamp": "2020-02-07T05:37:13.1492343Z",
+                        "lane": "G\u00e4vle - Gr\u00e5sj\u00e4lsb\u00e5dan\/Purrut",
+                        "plannedEndTime": "2020-02-07T06:40:00Z",
+                        "plannedStartTime": "2020-02-07T05:00:00Z",
+                        "actualStartTime": "2020-02-07T05:00:00Z",
+                        "actualEndTime": "2020-02-07T06:40:00Z",
+                        "statusChangedDescription": null
+                    }
+                ]
+            }
+        }
+    }
+]

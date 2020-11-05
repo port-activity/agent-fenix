@@ -1,0 +1,5 @@
+vendor
+coverage
+.history
+.env
+init_local.php
