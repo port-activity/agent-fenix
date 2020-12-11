@@ -108,8 +108,11 @@ class Fenix
     private function parseResults(array $rawResults, array $inboundLocodes): array
     {
         $tools = new FenixTools();
+
+        $ainoTimestamp = gmdate("Y-m-d\TH:i:s\Z");
+
         return array_filter(
-            array_map(function ($result) use ($tools, $inboundLocodes) {
+            array_map(function ($result) use ($tools, $inboundLocodes, $ainoTimestamp) {
                 $converted = null;
                 try {
                     $converted = $tools->convert($result, $inboundLocodes);

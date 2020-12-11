@@ -8,6 +8,7 @@
       "source": "Fenix",
       "external_id": "SE000474455",
       "direction": "inbound",
+      "berth_name": "Sligkajen 16",
       "vessel_beam": 13.6,
       "vessel_draft": 4.5,
       "vessel_loa": 103,

@@ -10,11 +10,11 @@ use const SMA\PAA\SERVICE\STATUS_PORT;
 class FenixTools
 {
 
-    // These are tighly matched to result data statusIds
+    // These are tightly matched to result data statusIds
     const STATUS_01_UNKNOWN                     = 1;
     const STATUS_02_UNKNOWN                     = 2;
     const STATUS_03_BLOCK_PRELIMINARY_ASSIGNED  = 3;
-    const STATUS_04_BLOCK_DEFINITEVILY_ASSIGNED = 4;
+    const STATUS_04_BLOCK_DEFINITIVELY_ASSIGNED = 4;
     const STATUS_05_BLOCK_STARTED               = 5;
     const STATUS_06_BLOCK_FINISHED              = 6;
     const STATUS_07_ORDER_PRELIMINARY           = 7;
@@ -104,7 +104,7 @@ class FenixTools
                 }
             } else {
                 throw new \Exception(
-                    "Can't resolve time for when resoving time for state '"
+                    "Can't resolve time for when resolving time for state '"
                     . $state
                     . "'. "
                     . print_r($data, true)
@@ -122,6 +122,9 @@ class FenixTools
             if (isset($data["swPilotageType"])) {
                 if ($data["swPilotageType"] === "ARR") {
                     $payload["direction"] = "inbound";
+                    if (isset($data["toPoint"])) {
+                        $payload["berth_name"] = str_replace(" - Gävle", "", $data["toPoint"]);
+                    }
                 } elseif ($data["swPilotageType"] === "DEP") {
                     $payload["direction"] = "outbound";
                 }

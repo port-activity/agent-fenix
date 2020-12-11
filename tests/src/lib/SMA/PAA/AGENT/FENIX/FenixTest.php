@@ -26,10 +26,10 @@ final class FenixTest extends TestCase
             9295347,
             array("SEGVX")
         );
-        //file_put_contents(__DIR__ . "/ValidPosterData.json", json_encode($resultPoster->results, JSON_PRETTY_PRINT));
+        // file_put_contents(__DIR__ . "/ValidPosterData.json", json_encode($resultPoster->results, JSON_PRETTY_PRINT));
         $this->assertEquals(
-            $resultPoster->results,
-            json_decode(file_get_contents(__DIR__ . "/ValidPosterData.json"), true)
+            json_decode(file_get_contents(__DIR__ . "/ValidPosterData.json"), true),
+            $resultPoster->results
         );
     }
 }
