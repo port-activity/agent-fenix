@@ -55,6 +55,21 @@ final class FenixToolsTest extends TestCase
         );
     }
 
+    public function testOrderStartedCommencedLastBlockNullTimeParsing(): void
+    {
+        $inJson = file_get_contents(__DIR__ . "/FenixToolsOrderStartedLastBlockNullTimeIn.json");
+        $inData = json_decode($inJson, true);
+        $outJson = file_get_contents(__DIR__ . "/FenixToolsOrderStartedLastBlockNullTimeOut.json");
+        $outData = json_decode($outJson, true);
+
+        $tools = new FenixTools();
+
+        $this->assertEquals(
+            $outData,
+            $tools->convert($inData, array("SEGVX"))
+        );
+    }
+
     public function testOrderFinishedParsing(): void
     {
         $inJson = file_get_contents(__DIR__ . "/FenixToolsOrderFinishedIn.json");

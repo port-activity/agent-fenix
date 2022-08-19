@@ -27,15 +27,17 @@ class FenixTools
     const STATUS_14_ORDER_UNKNOWN               = 14;
     const STATUS_15_ORDER_DELETED               = 15;
 
-    private function dataFromLastEventBlock(array $data, string $key): string
+    private function dataFromEventBlocks(array $data, string $key): string
     {
         $res = "";
 
         if (!empty($data["eventBlocks"])) {
-            $eventBlock = end($data["eventBlocks"]);
+            $eventBlocks = $data["eventBlocks"];
 
-            if (!empty($eventBlock[$key])) {
-                $res = $eventBlock[$key];
+            foreach ($eventBlocks as $eventBlock) {
+                if (!empty($eventBlock[$key])) {
+                    $res = $eventBlock[$key];
+                }
             }
         }
 
@@ -87,7 +89,7 @@ class FenixTools
                 }
             } elseif ($data["statusId"] === self::STATUS_10_ORDER_STARTED ||
                       $data["statusId"] === self::STATUS_11_ORDER_FINISHED) {
-                        $fenixTime = $this->dataFromLastEventBlock($data, $keyMap[$data["statusId"]]);
+                        $fenixTime = $this->dataFromEventBlocks($data, $keyMap[$data["statusId"]]);
             } else {
                 if (isset($data["timestamp"])) {
                     $fenixTime = preg_replace('/\..*?(\+|\-)/', "$1", $data["timestamp"]);

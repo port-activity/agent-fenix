@@ -1,0 +1,57 @@
+{
+    "imo": 9774587,
+    "vessel_name": "",
+    "time_type": "Actual",
+    "state": "Pilotage_Commenced",
+    "time": "2021-01-22T10:00:00+0000",
+    "payload": {
+        "source": "Fenix",
+        "external_id": "SE000533877",
+        "direction": "inbound",
+        "berth_name": "Östra kajen 12",
+        "vessel_beam": 28.5,
+        "vessel_draft": 7.7,
+        "vessel_loa": 189.99,
+        "original_message": {
+            "id": "2007240",
+            "timestamp": "2021-01-22T11:05:48Z",
+            "imo": 9774587,
+            "fromPoint": "Gråsjälsbådan (syd om)",
+            "toPoint": "Östra kajen 12 - Gävle",
+            "billNumber": 990348436,
+            "orderedPilotageStart": "2021-01-22T10:00:00Z",
+            "statusId": 10,
+            "statusDescription": "OrderStarted",
+            "shipBeam": 28.5,
+            "shipCurrentDraft": 7.7,
+            "shipLoa": 189.99,
+            "unLocode": "SEGVX",
+            "swPilotageType": "ARR",
+            "swPortVisitId": "SE000533877",
+            "eventBlocks": [
+                {
+                    "boardingPoint": "Gråsjälsbådan (syd om)",
+                    "id": "2717386",
+                    "timestamp": "2021-01-22T11:05:49.0269986Z",
+                    "lane": "Gävle - Gråsjälsbådan\/Purrut",
+                    "plannedEndTime": "2021-01-22T11:15:00Z",
+                    "plannedStartTime": "2021-01-22T10:00:00Z",
+                    "actualStartTime": "2021-01-22T10:00:00Z",
+                    "actualEndTime": null,
+                    "statusChangedDescription": null
+                },
+                {
+                    "boardingPoint": null,
+                    "id": "2717387",
+                    "timestamp": "2021-01-22T11:05:49.0269986Z",
+                    "lane": "Gävle - Gråsjälsbådan\/Purrut",
+                    "plannedEndTime": "2021-01-22T11:15:00Z",
+                    "plannedStartTime": "2021-01-22T10:00:00Z",
+                    "actualStartTime": null,
+                    "actualEndTime": null,
+                    "statusChangedDescription": null
+                }
+            ]
+        }
+    }
+}
